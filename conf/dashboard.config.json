@@ -1,0 +1,19 @@
+{
+    "refreshInterval": 5000,
+    "alertThresholds": {
+        "cpuWarning": 70,
+        "cpuCritical": 90,
+        "memoryWarning": 75,
+        "memoryCritical": 95,
+        "latencyWarning": 10,
+        "latencyCritical": 50,
+        "packetLossWarning": 0.5,
+        "packetLossCritical": 2.0
+    },
+    "display": {
+        "theme": "dark",
+        "chartsVisible": true,
+        "maxAlerts": 50,
+        "topologyLineStyle": "dashed"
+    }
+}

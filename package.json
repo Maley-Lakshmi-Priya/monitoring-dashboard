@@ -1,0 +1,23 @@
+{
+  "name": "5g-monitoring-dashboard",
+  "version": "1.0.0",
+  "description": "Welcome to our workshop!  To participate in the OpenAirInterface (OAI) hands-on session, participants should bring their own laptops or form a group. The laptop must have internet access and should have the below requirments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajeevGa/iittp-oai-hands-on.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajeevGa/iittp-oai-hands-on/issues"
+  },
+  "homepage": "https://github.com/RajeevGa/iittp-oai-hands-on#readme",
+  "dependencies": {
+    "vite": "^8.0.0"
+  }
+}
