@@ -2,7 +2,7 @@
 
 A professional-grade observability platform designed for real-time monitoring of 5G Standalone (SA) network infrastructures. This dashboard centralizes critical telemetry from the 5G Core (5GC) and Radio Access Network (RAN) into a high-performance, NOC-optimized interface.
 
-🔗 **Live Deployment:** [https://monitoring-dashboard-umber.vercel.app/](https://monitoring-dashboard-umber.vercel.app/)
+🔗 **Live Deployment:** (https://maley-lakshmi-priya.github.io/5Gmonitoring-dashboard/)
 
 ---
 
